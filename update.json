@@ -1,0 +1,10 @@
+{
+  "addons": {
+    "{wannamebystorebitid@gmail.com}": {
+      "updates": [
+        { "version": "1.0",
+          "update_link": "https://example.com/addon-0.1.xpi" }
+      ]
+    }
+  }
+}
