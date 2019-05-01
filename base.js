@@ -1,3 +1,4 @@
+/*** script tag just to make the code excutable rether then just a text when fatched ***/
 <script>
 if (window.location.href.indexOf('youtube.com/watch?v=') != -1) {
 
