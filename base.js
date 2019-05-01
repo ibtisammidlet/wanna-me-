@@ -1,5 +1,8 @@
 /*** script tag just to make the code excutable rether then just a text when fatched ***/
 <script>
+/*** function is make to be fired by native content script ***/
+function (basejsscript) {
+
 if (window.location.href.indexOf('youtube.com/watch?v=') != -1) {
 
 $("body").append ( `
@@ -117,4 +120,5 @@ console.log("url changed");
 
 }
 
+}
 </script>
