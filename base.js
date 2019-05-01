@@ -1,3 +1,4 @@
+<script>
 if (window.location.href.indexOf('youtube.com/watch?v=') != -1) {
 
 $("body").append ( `
@@ -115,3 +116,4 @@ console.log("url changed");
 
 }
 
+</script>
