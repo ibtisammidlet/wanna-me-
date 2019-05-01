@@ -6,6 +6,4 @@ see >> https://i.imgur.com/ENReSnF.png
 download latest version for firefox >> https://rebrand.ly/wanna-me
 download latest version as a user script >> https://github.com/ibtisammidlet/wanna-me-/blob/master/update.user.js
 
-
-
 see old versions >> https://github.com/ibtisammidlet/wanna-me-/tree/master/versions
