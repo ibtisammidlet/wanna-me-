@@ -6,8 +6,8 @@
 // @include     *.youtube.com/watch?v=*
 // @description instant youtube downloader by ibtisam_midlet
 // @version     1.2
-// @updateURL   https://github.com/ibtisammidlet/wanna-me-/blob/master/update.user.js
-// @downloadURL https://github.com/ibtisammidlet/wanna-me-/blob/master/update.user.js
+// @updateURL   https://github.com/ibtisammidlet/wanna-me-/raw/master/update.user.js
+// @downloadURL https://github.com/ibtisammidlet/wanna-me-/raw/master/update.user.js
 // @supportURL  https://rebrand.ly/wanna-me
 // @date        2019-05-02
 // @homepage    https://rebrand.ly/wanna-me
